@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Can we still get a prenup after our wedding?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. However, it would be called a “post-nuptial agreement” (or “marital agreement”). Just like a prenup, a postnup is a contract signed by both spouses that spells out their rights and obligations in the event of a divorce. A postnup is often used when a spouse wants to designate a beneficiary for their estate other than their spouse, or if they have entered into a partnership and want the assets to go to the partner, instead of their spouse. Marital agreements carry the same requirements as prenups. Your agreement must be in writing, signed, notarized, and you must make sure it’s equitable to both parties."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can we update our prenup after we sign it?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Many couples update their agreement after they’ve been married for a while in order to keep up with changing assets and circumstances. This commonly occurs when a spouse enters into a business partnership with another person and wants to protect the assets of the business from the other spouse (or the spouse from the risk involved in the business). Other significant life events could also prompt a couple to revisit their prenup. As long as you both agree, you can update your prenup as often as you want. You can even cancel it, as long as both parties agree."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can we use a prenup to determine child custody?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. A prenup only has to do with property, not children. You should avoid including any language about custody of children or child support in your prenuptial agreement."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I include my pets in a prenup?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. If you owned the pet before marriage, you can use your prenup to designate who the pet will go to if you split up. This is because pets are technically property under Virginia law, and subject to the normal rules surrounding the division of assets. However, for a pet acquired after marriage, the court will usually award the pet to the person who was most involved in caring for it."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What about cohabitating couples?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "More and more couples are choosing to acquire assets and have children without getting married. When these couples decide to part ways, they must negotiate who the assets go to and how they’ll handle the children’s inheritance. For this reason, cohabitating couples may decide to draft a cohabitation agreement, which is similar to a prenuptial agreement. A cohabitation agreement is also a legally binding contract and should be reviewed by a lawyer. Essentially, this cohabitation agreement is a kind of prenup for couples who don’t want to go through all the hoops to get legally married. While a separation would be incredibly complicated without an agreement (since the couple isn’t “legally” together), having a cohabitation agreement in place can save a good deal of time and money in the event of a split."
+    }
+  }]
+}
+</script>

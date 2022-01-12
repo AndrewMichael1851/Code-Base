@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Can alimony affect my child support payments?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally speaking, no. According to the Virginia Code, alimony and child support are totally different things. As the biggest difference, “spousal support” is supposed to support the spouse, while “child support” is supposed to support the child. However, the amount you are paying (or receiving) in child support may affect how much spousal support you owe (or will receive from) your spouse. Unlike child support, there is no set formula to determine spousal support in Virginia. If a court is deciding both spousal and child support as part of the same case, it may modify the child support formula to take alimony into account. If one spouse is already paying child support, a judge may choose to take this into account if they feel that the payments are relevant to the alimony portion of the case. The one exception to this rule is in the case of military families. In Virginia, there is a cap on how much combined child and spousal support a service member may pay. The total sum of both child support and alimony cannot exceed 60% of a military member’s pay and allowances."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When can I stop paying alimony?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "This depends entirely on how the order awarding support is worded. If a judge orders that you pay alimony for an indefinite period of time (permanent support), there is no formal cut-off date for when you can stop paying alimony. In order to stop paying you former spouse alimony, you need to file a petition with the court to terminate the payments. There are two ways you can do so: automatic and discretionary. For an automatic termination, you need to show that the circumstances have changed so drastically that spousal support is no longer needed. Most commonly, death and remarriage would automatically terminate the alimony payments. In the cases such as these, all you need to do is show the court proof that such an event occurred. For a discretionary termination, you need to appear in front of a judge to show that the circumstances have changed enough to justify a decrease or termination in the alimony payments. For example, if your spouse gets a much higher paying job, or if they begin to cohabitate with someone else (i.e. if they’re “in a serious new relationship”), you might be able to convince the judge to alter the alimony at their own discretion."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I modify the alimony order after the fact?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Under Virginia law, the spouse paying alimony can request a modification of the amount if their own circumstances significantly change. For instance, if you lose your job or become disabled, you could use these changes in circumstance to convince the court to modify the original alimony order. However, before you make any final decisions about modifying your alimony order, make sure to remember the thirteen points we mentioned above. The change in your earning potential must drastically affect one of those variables in order to affect your alimony order. For example, if you quit your job you might not be able to change your alimony order. This is because the other party could argue that you willfully cut off your source of income and, further, still have the potential to get a new job for a similar amount of pay."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What happens if I miss (or fail to pay) an alimony payment?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In the event that a party fails to pay spousal support, whether intentionally or not, the receiving spouse can file an income deduction order with the court. An “income deduction order” is a court-approved order to garnish an individual’s wages. Generally, they are used to collect long-overdue child and spousal support payments. According to Virginia Code § 20-79.1, both you and your employer must be notified when an income deduction order is filed against you. You will then have 10 days to respond to the order. If you fail to respond, your employer will begin deducting money from your paycheck and sending it to the court to pay for the overdue alimony. Other methods the court uses include seizing your property or holding you in contempt of court (i.e. “putting you in jail until you start making payments”). If you are having trouble making court-ordered alimony payments, it’s best to have your lawyer file for a modification, instead of going into default."
+    }
+  }]
+}
+</script>

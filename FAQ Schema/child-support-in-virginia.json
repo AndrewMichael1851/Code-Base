@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How long do I have to pay child support?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally, Virginia child support orders terminate when a child reaches the age of 18, or is legally emancipated. However, there is one exception. If the child: (1) reaches the age of 18, (2) is still in high school, (3) is not self-supporting, and (4) is still living in the home of the custodial parent, then that parent can still seek child support. In this case, the support payments will continue until the child reaches the age of 19 or graduates from high school, whichever comes first. The court also has the discretion to continue support beyond the age of 18 if the child is severely and permanently mentally or physically disabled. In this case, the child must not live independently, and must reside in the home of the custodial parent."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I have my child support obligations lowered?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "As mentioned earlier in this article, the non-custodial parent can petition the court to have their child support obligations lowered. To do so, you must show the material changes of circumstance that justify this reduction. Further, you must show that your lack of ability to pay is not due to a voluntary act on your part, such as quitting your job or spending all your money on a vacation the week before the payments are due. Finally, this “material change” must be something new which did not exist when child support was originally determined. Common material changes that hold up in court include: (1) medical Emergencies, (2) instances where the custodial parent’s financial situation drastically improves or changes, and (3) changes in the Virginia child support guidelines."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I have my child support award increased?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. In fact, simply showing that the non-custodial parent’s income increased is sufficient evidence for an increased award, as in the case of Conway v. Conway. The logic is that any increase in salary would have been shared had the family unit remained intact. Therefore, the child should still benefit from the non-custodial parent’s raise."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can the other parent and I agree to modify our Virginia child support agreement?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, but you must have court approval. Generally, courts will always strongly prefer that any adjustments to child support payments be made through the courts themselves, and not by written agreement of parents or guardians. However, parents may enter into an agreement that modifies child support obligations, as long as the agreement is reviewed and approved by a judge. This was determined by the Virginia Court of Appeals in 2001. This means that any such agreement must meet all the legal requirements that a court order would, such as that the change is based on a change in circumstance and is in the best interest of the child. Because this is a tricky area, you should either directly petition the court for any modifications in child support, or consult with an attorney before trying to come to an agreement."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What happens if I overpay child support?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you ever overpay in child support, you are not guaranteed a credit for that support. In fact, Virginia courts have specifically held that overpayments by a parent cannot be credited towards future child support payments. In a way similar to the previous section, these overpayments are considered gifts, and do not count towards future payments."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What happens if I don’t pay my child support obligation?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The consequences for not paying child support can be steep. In Virginia, those who fail to pay are guilty of a Class U misdemeanor. This act is punishable by a fine of up to $500, confinement in jail for up to one year, or both, or [placed] on work release employment for a period between 90 days and 12 months (Virginia Code § 20-61). Alternatively, the court might instead require that the non-payer pay a fine to the custodial parent or guardian of an amount up to $1,000. This amount is in addition to any pending child support payments that the non-custodial parent has yet to pay."
+    }
+  }]
+}
+</script>

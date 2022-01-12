@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What can I do if my neighbor's tree has overhanging branches?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In most cases, you are legally allowed to cut the overhanging branches. However, you should make sure that your cuts don’t damage the tree in any significant way. Further, you can only cut the branches up to the property line. You also cannot go onto your neighbor’s property in any way while performing the trimming. For all of these reasons, it’s often wise to hire a professional tree trimmer with business insurance to do the work for you."
+    }
+  }, {
+    "@type": "Question",
+    "name": "My neighbor’s tree drops leaves into my yard, can I sue for the cost of cleaning it up?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally speaking, no. Under Virginia law it is your responsibility to clean up most nuisance items that a tree may drop into your yard."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Who’s responsible when a tree falls?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "As discussed above, the answer to this question really depends on the facts of each case. Tort law principles such as negligence and contributory negligence play a role in determining who is at fault, or legally responsible. Because the application of tort law can vary from case to case, it’s best to talk things over with an attorney to determine who is legally responsible."
+    }
+  }, {
+    "@type": "Question",
+    "name": "A tree sits on my property line, do I own the tree?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes and no. Trees that sit on property lines are called “boundary trees” and each property owner technically owns a share of that tree. This means that you both share responsibility for the tree in question. For example, you can sue them for your share of the tree if they cut it down, since it’s technically shared property. Similarly, you have no claim if the tree damages something on your property, since you also own a share of that tree and are equally responsible for its care."
+    }
+  }]
+}
+</script>

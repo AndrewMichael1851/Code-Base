@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Can I be deported for filing a personal injury lawsuit?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In general, no. You cannot face deportation because you filed a lawsuit, reported an accident, or sought treatment for injuries. As such, it is in your best interests to seek medical attention and ask for copies of your medical records as soon as possible following an injury. Even if you feel like you don’t need to go to the doctor, medical records are important evidence in many personal injury cases. It is important to use your real name and personal information when filing a lawsuit or insurance claim. Failing to do so could prevent you from receiving the compensation you are owed."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Will anyone ask about my immigration status?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In general, no. For most personal injury cases, your immigration status should not affect your claim in any significant way. In fact, in 1981 the Virginia Supreme Court ruled that a plaintiff’s immigration status is not relevant to their ability to file personal injury claims. This is important, because it is always possible that a jury knowing about your immigration status could cause them to be prejudiced against you. Nevertheless, you should still talk to your lawyer about how to deal with any questions about your legal status that may come up. This is another place where hiring a personal injury lawyer with a good understanding of immigration law can be valuable."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Do I need to speak English to file a personal injury lawsuit?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. You don’t have to read or speak English to file any kind of lawsuit in Virginia. However, all forms filed with a Virginia court must be completed in English. In most cases this should not pose a problem, as your lawyer will file the forms for you. Additionally, the Virginia Code does not require courts to provide interpreters in civil cases, including personal injury cases. However, you can always bring one along with you if you feel they would be helpful. The Virginia Workman’s Compensation Commission, on the other hand, provides interpreters free of charge, provided that you request one at least thirty days before your court date."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What kinds of damages can undocumented immigrants sue for in Virginia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The whole point of filing a personal injury lawsuit is to seek financial compensation for one or more types of damages. Undocumented immigrants can sue for the same types of damages as everyone else in Virginia. The most common types include property damage, medical bills, financial inconvenience (such as having to use a rideshare service like Uber to get to work), pain and suffering, emotional distress, and/or loss of enjoyment, and lost wages. However, any change in (or damage to) an individual’s financial or personal health can result in a claim for damages. You aren’t limited to the common examples I’ve listed above."
+    }
+  }]
+}
+</script>

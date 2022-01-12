@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Will I lose my residency if my green card expires?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you are already a lawful permanent resident, you will not lose that status because you failed to renew your green card. However, you may lose access to some of the benefits provided by that status until you renew your green card. For example, you may not be able to use your lawful permanent resident status to apply for a job. This is not because you lost your permanent resident status. Rather, it’s because you may have difficulty proving your legal status to the employer. Similarly, you may lose your ability to buy a house, renew your driver’s license, or travel abroad until you renew your green card."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How early can I renew my green card?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Unfortunately, you cannot renew your green card until 6 months before it expires. USCIS will reject your renewal application if you attempt to do so earlier than this time frame. This is also true for conditional permanent residents. Remember, however, that it may take USCIS longer than 6 months to process your full application. For this reason, you should avoid scheduling any major life events (buying a new house, changing jobs, traveling outside the country) until after your new green card arrives in the mail."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I renew my green card if I’m outside the United States?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. You cannot renew your green card while you are physically outside of the United States. As a further complication, you’ll need a valid green card in order to re-enter the United States. This can be a major problem if you learn that your green card is set to expire while you are traveling. If your green card has yet to expire, you can simply return to the U.S. and file an I-90 through the normal process outlined above. If your green card has fully expired, you should immediately contact the nearest U.S. consulate or USCIS office. They can help you determine which travel documents you’ll need to file in order to return to the United States. This is a complicated process that you should avoid if at all possible."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is “green card abandonment” and how can I avoid it?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Another issue that frequent travelers may have to deal with is green card abandonment. Lawful permanent residents may only travel abroad on a temporary basis. In legal terms, this means you may abandon your green card if you are outside the U.S. for more than a year. In addition, you should always specify that you are only leaving the U.S. temporarily if questioned at a port of entry. If you remain abroad for more than a year, you may be asked to sign Form I-407, Record of Abandonment of Lawful Permanent Resident Status. Effectively, signing this form will cause you to lose your permanent residency status. For this reason, you should get in touch with your immigration lawyer immediately if a border patrol agent or similar official presents you with this form. Together, you can find a way to avoid losing your green card."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What if USCIS denies my renewal petition?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "While extremely uncommon, it’s possible for USCIS to deny your petition for green card renewal. This can happen for a few different reasons: (1) you were convicted of a deportable offense, (2) you were ordered to leave the country, or (3) USCIS determined that you falsified your renewal application. These are all very serious situations that need to be addressed by a legal professional. If USCIS denies your renewal petition, contact an immigration lawyer immediately."
+    }
+  }]
+}
+</script>

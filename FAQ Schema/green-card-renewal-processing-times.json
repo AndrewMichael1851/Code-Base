@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How long does it take to renew a normal 10-year green card?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Roughly 7 to 13 months from the time you submit your application to when you receive your green card in the mail. This means you’ll most likely have to live without a valid green card for several months. Because of this gap, you should avoid changing jobs, moving to a different house or apartment, or making plans to leave the country during this interim period. While you’ll still be a full permanent resident of the United States, trying to prove this fact without a valid green card can be an uphill battle."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How long does it take to renew my green card after the biometrics appointment?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You can check the exact status of your application online at https://myaccount.uscis.gov/. You can also check the current processing times at https://egov.uscis.gov/processing-times/. Currently, it takes the Potomac service center roughly 7 to 13 months to finish processing an I-90 application after the biometrics appointment."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How much does it cost to renew a green card?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The current filing fee for the I-90 application is $455, with an additional $85 biometrics fee. You can find a full chart detailing all the possible costs on the USCIS I-90 information page, under the “Filing Fee” tab."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What happens if my green card expires before I receive the new one?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You will not lose your permanent resident status just because your green card expires. Remember, your green card is proof of your permanent resident status. It simply speeds up certain processes that require you show proof of residency, such as housing applications or when you want to re-enter the country. For this reason, you generally shouldn’t worry about an expired green card, provided you’re currently waiting for USCIS to finish processing your application. Just be especially careful if you do anything that might require proof of residency."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I speed up the green card renewal process?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Technically, yes. Realistically, no. When you submit your application you can submit a request for expedited processing for no extra cost. However, only the USCIS officer who processes your case can make the decision about whether to actually expedite your application or not. In most cases, they’ll simply ignore the request. For this reason, there is no practical, easy way to speed up your application besides simply asking nicely in a cover letter to your application."
+    }
+  }]
+}
+</script>

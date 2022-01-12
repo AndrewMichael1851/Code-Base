@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "When should I file a diminished value claim? Is it really worth it?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Diminished value claims are usually only worthwhile if the accident produced major damage, or if your car is valuable enough to warrant an appraisal or argument. Put another way, most fender benders do not necessitate a diminished value claim. Generally speaking, most diminished value claims will involve (1) older, collectible vehicles, (2) expensive vehicles generally, or (3) vehicles that, due to the nature of the crash, experienced a sharp decline in value. While there’s certainly nothing stopping you from making a diminished value claim after an accident, you should carefully weigh the pros and cons of such a strategy (preferably with an attorney) before including it in your claim."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What evidence should I collect for my diminished value claim?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In our discussion above, we mentioned that your diminished value claim will be equal to the pre-accident value of your car minus the post-accident value of your car, minus any repairs that were done on the car as a result of the accident. For this reason, the evidence you collect for your claim should largely focus on proving a set value for any of these three points. At a bare minimum, you should collect (1) photographs of your vehicle before the accident, (2) photographs of your vehicle immediately after the accident, (3) photographs of your vehicle after the repairs are finished, and (4) a signed affidavit or written appraisal, created by a qualified appraiser, that documents your vehicle’s loss in value."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How do I file a diminished value claim?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally speaking, you should start by notifying the insurance company of your wish to file a diminished value claim in addition to your property damage claim. The insurance company will then determine the loss in value, and make you an offer based on the difference between your vehicle’s pre- and post-accident worth. If you wish to contest this offer you should consider speaking with an attorney. You might also want to hire your own appraiser to get a second opinion on your car’s loss in value. Note, however, that most minor impacts and fender benders will result in rather low settlement offers, if the insurance company makes an offer at all. As we mentioned above, diminished value claims are usually only worthwhile in cases where the vehicle itself had a very high value, or if the accident resulted in significant damages without actually totaling your vehicle."
+    }
+  }]
+}
+</script>

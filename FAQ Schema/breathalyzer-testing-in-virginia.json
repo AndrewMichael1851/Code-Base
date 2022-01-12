@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How is a breathalyzer test different from a field sobriety test?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The Virginia Code lays out a clear legal difference between breathalyzer tests and field sobriety tests. Basically, the advanced breathalyzer tests (and blood tests) that you take at the police station will show your exact BAC. Meanwhile, field sobriety tests instead provide circumstantial evidence for the fact you may be intoxicated. Finally, note again that preliminary roadside breathalyzer tests are not admissible in court, despite being a field sobriety test."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Which field sobriety tests are admissible in court?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There are three standardized field sobriety tests which an officer may ask you to perform during a traffic stop: (1) the Horizontal Gaze Nystagmus Test — Moving a finger back in forth in front of a person’s eyes in order to track eye movement; (2) the Walk-and-Turn Test — Walking heel-to-toe along a straight path, then turning around and returning to the original position; (3) the One-Leg Stand Test — Standing on one leg for 30 seconds. While an officer may ask you to perform other tests (such as asking you to say your ABCs in reverse), these tests are generally less admissible in court, and are worth challenging with your defense attorney."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can the officer arrest me if I blow less than 0.08% on a breathalyzer test?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. In Virginia, blowing 0.08% or higher provides enough evidence to charge you with DUI by itself, irrespective of whether or not you actually seemed impaired. However, even if you blow below a 0.08 on either of these tests, the officer can still charge you with DUI on the suspicion that you were driving while impaired. Put another way, a breathalyzer test is the strongest evidence against you, but it may not be the only evidence against you. If the officers have a reasonable suspicion that you committed a crime (such as if they witnessed you driving erratically or if you fail several field sobriety tests), they can arrest you for that crime. The breathalyzer test merely confirms their suspicions and provides evidence to make the later trial go quicker."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the penalties for refusing a breathalyzer test in Virginia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you do refuse a formal, post-arrest breathalyzer test, you’ll face several consequences: (1) a first offense counts as a civil violation. In this situation, the court will suspend your license for up to one year in addition to any license suspension resulting from the DUI charges; (2) for a second or subsequent offense within ten years, refusing a breathalyzer test is a Class 1 misdemeanor. It is punishable by a fine of up to $2,500, up to one year in jail, and a three-year license suspension."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I refuse a blood test in Virginia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If a police officer believes you were driving under the influence of drugs, rather than alcohol, they may request a blood test. This blood test holds the same legal power as the formal breathalyzer test we discussed above. In other words, if you unreasonably refuse a blood test, you may also face additional penalties through the Implied Consent Law, such as the loss of your driving privileges. However, unlike breathalyzer tests, a second or subsequent refusal of a blood test will not result in a Class 1 misdemeanor charge. This is because of a 2016 Supreme Court decision which stated that states cannot criminalize the refusal of a blood test (see Birchfield v. North Dakota)."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Will I lose my license because of a breathalyzer test result?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. If you blow at or above the legal limit of 0.08 BAC, you will face an immediate administrative license suspension. The same thing will happen if you refuse a breathalyzer test after your arrest. The length of the suspension depends on the number of DUIs you’ve been convicted of in the past: (1) for a first offense of DUI, you will lose your driving privileges for 7 days; (2) for a second offense of DUI, you will lose your driving privileges for either 60 days or until the date of your trial, whichever comes first; (3) a third offense of DUI will result in the loss of your driving privileges until the day of your trial."
+    }
+  }]
+}
+</script>
