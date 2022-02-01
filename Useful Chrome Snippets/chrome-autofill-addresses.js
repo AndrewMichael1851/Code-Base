@@ -21,6 +21,9 @@
   * 2. Open the devtools Javascript console (option + command + j)
   * 3. Run the Javascript code below to add an input button in the top right corner of the page.
   * 4. Use this button to import a .csv file with all of the addresses and other information you'd like to import.
+  *
+  * NOTE: The .csv file doesn't need headings, just put in each entry in the order listed below.
+  * NOTE: The whole thing breaks if any cell in the .csv has a comma, so please remove any from the file.
   */
 
 /*********************
@@ -43,10 +46,17 @@ Object.assign(document.body.appendChild(document.createElement('input')), {
         fr.onload = () => {
 
             for (const line of fr.result.split(/\r?\n/)) {
-                const [name, email] = line.split(',');
+                const [name, company, address, state, city, postal, country, phone, email] = line.split(',');
                 chrome.autofillPrivate.saveAddress({
-                    emailAddresses: [email],
                     fullNames: [name],
+                    companyName: company,
+                    addressLines: address,
+                    addressLevel1: state,
+                    addressLevel2: city,
+                    postalCode: postal,
+                    countryCode: country,
+                    phoneNumbers: [phone],
+                    emailAddresses: [email],
                 });
             }
 
