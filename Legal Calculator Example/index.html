@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Virginia Legal Calculator Example</title>
+        <meta name="description" content="A basic calculator for testing how we can make a legal calculator page.">
+        <meta name="author" content="Andrew Michael">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/png" href="img/andrew-favicon.png"/>
+        <link rel="stylesheet" href="css/style.css">
+        <script type="text/javascript" src="js/app.js"></script>
+    </head>
+    <body>
+        <!-- Top Navigation Bar -->
+        <nav class="navbar">
+            <div class="flex-row">
+                <div class="flex-column">
+                    <div class="left-section">
+                        <a class="navbar-link" href="#">Instructions</a>
+                        <a class="navbar-link" href="#">Virginia Code Sections</a>
+                        <a class="navbar-link" href="#">Github</a>
+                    </div>
+                </div>
+                <div class="flex-column">
+                    <div class="right-section">
+                        <a class="button reload" href="javascript:window.location.reload(true)">Reload Page</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <main>
+            <div class="content">
+                <div class="heading">
+                    <h1 class="page-title">Welcome to My Example Calculator</h1>
+                    <h4 class="subtitle">Created by Andrew Michael (2022)</h4>
+                </div>
+                <div class="introduction">
+                    <p>Please fill out the form below..</p>
+                </div>
+                <div class="primary-form">
+                    <div class="radio">
+                        <p>Are there any minor children who were born or adopted to both spouses?</p>
+                        <input type="radio" id="minorChildrenYes" name="minorChildren" value="yes">
+                        <label for="yes">Yes</label><br>
+                        <input type="radio" id="minorChildrenNo" name="minorChildren" value="no">
+                        <label for="no">No</label><br>
+                    </div>
+                    <div class="questionField">
+                        <p>Spouse 1's Gross Monthly Income</p>
+                        <input type="text" name="spouseOneIncome" id="spouseOneIncome" class="field">
+                    </div>
+                    <div class="questionField">
+                        <p>Spouse 2's Gross Monthly Income</p>
+                        <input type="text" name="spouseTwoIncome" id="spouseTwoIncome" class="field">
+                    </div>
+                    <a class="button submit" href="#" onclick="runCalculator()">Submit</a>
+                </div>
+            </div>
+        </main>
+        <footer class="footer">
+            <div class="flex-row">
+                <div class="flex-column">
+                    <div class="left-section">
+                        <a class="footer-link" href="#">Contact</a>
+                        <a class="footer-link" href="#">Report a Bug</a>
+                    </div>
+                </div>
+                <div class="flex-column">
+                    <div class="right-section">
+                        <a class="footer-link" href="#">Privacy</a>
+                        <a class="footer-link" href="#">Terms</a>
+                        <a class="footer-link" href="#">Settings</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
