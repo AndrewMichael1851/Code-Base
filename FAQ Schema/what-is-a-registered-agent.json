@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Why do I need a registered agent?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In most jurisdictions, failure to maintain a registered agent can make your business lose its good standing with the Virginia SCC, possibly resulting in the dissolution or revocation of your entity’s legal status. Put simply, all Virginia businesses are required to name and maintain a registered agent, and failing to do so could land you in hot water with the SCC."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I act as the registered agent for my own LLC?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. As long as you meet the qualifications listed above, you can personally act as the registered agent for your LLC. In fact, most businesses name either the business’s founder or their attorney as the registered agent."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How do I elect a registered agent in Virginia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "When you submit your articles of organization to the Virginia SCC you’ll have to name your registered agent on the paperwork. If you need to change your registered agent at a later date, you can do so quickly and easily online using the Clerk’s Information System."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can my registered office be the same address as my business address?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. The registered office is simply the place of business for the registered agent, and acts as a location where the registered agent can be served legal documents on behalf of the LLC. For this reason, a P.O. box is not acceptable as a registered office address."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How much do registered agents cost?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally speaking, you should expect to pay somewhere around $100 to $300 for basic registered agent services. Note, however, that many attorneys will simply include registered agent services as a part of a larger service package, such as if you choose to hire an attorney to help you incorporate your business."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Where can I learn about Virginia’s requirements for registered agents?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There are numerous resources online, but the best place to start is probably the Virginia SCC’s business FAQ page on registered agents linked below. Our attorneys would also be happy to schedule a consultation with you to answer any questions you might have about the business incorporation process."
+    }
+  }]
+}
+</script>
