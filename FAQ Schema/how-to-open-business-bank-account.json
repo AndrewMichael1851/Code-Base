@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "At what point do I need a business bank account?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally speaking, the threshold at which you need to open a business bank account is the same as the threshold for reporting your business’s income to the IRS. Specifically, if you make more than $400 to $600 from your side business in a single calendar year (or expect to make more than this amount in the future), you should probably open a business bank account. While sole proprietorships and partnerships may be able to fly under the radar to some extent, registered businesses such as LLCs and corporations must open a new account to retain their limited liability protections."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What documentation do I need to open a business bank account?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In most cases, the bank will ask for a tax identification number (such as an EIN) as well as various documents pertaining to the business and its ownership. These requirements can change based on your business structure and the bank you choose to go with. For this reason, you should check the bank information pages for the accounts you’re planning to open to see what documentation the bank needs."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What’s the difference between a bank and a credit union?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The primary difference is that a bank is a for-profit entity while credit unions are generally non-profit and community- or member-focused in nature. This means that credit unions generally have better offerings in your local area, but may struggle to compete at the national level when it comes to convenience, ATMs, and financial technology. When it comes to business bank accounts, credit unions are often preferable due to their generally better customer service and generally lower fees and overhead costs. However, larger organizations may prefer to open accounts with banks due to the additional structure and resources available."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is a merchant account and what do they do?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A merchant account is a special kind of bank account that gives a business access to any funds received through credit and debit card payments. However, traditional merchant accounts are progressively falling out of style due to numerous cheaper and faster options which have entered the market over the past few years. As a result, most new businesses instead choose to use online payment processing solutions such as Stripe or Square which combine the functionalities of merchant accounts and gateways (the technology that accepts debit and credit card purchases from customers) into one. Specifically, these payment processing solutions will accept and route payments through their systems (rather than through a separate merchant account) and then deposit these payments straight into the bank account of your choosing."
+    }
+  }]
+}
+</script>
